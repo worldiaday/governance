@@ -9,7 +9,7 @@ We believe the way forward is to establish a governance committee to support sou
 
 ## Committee Members 
 
-| Role | Name |
+Role | Name
 | Chair, president | Grace Lau |
 | Chair-elect, president-elect |  |
 | Member, Officer | Amy Espinosa |
