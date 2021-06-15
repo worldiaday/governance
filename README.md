@@ -9,11 +9,10 @@ We believe the way forward is to establish a governance committee to support sou
 
 ## Committee Members 
 
-- Chair, president: Grace Lau
-- Chair-elect, president-elect: 
-- Member, Officer:  Amy Espinosa
-- Member, Officer: Anita Cheng
-- Member
+- Grace Lau
+- Andrea Rosenbusch
+- Anita Cheng
+
 
 ## Questions
 Should all officers (president, secretary, treasurer) be part of the Governance Committee? YES
